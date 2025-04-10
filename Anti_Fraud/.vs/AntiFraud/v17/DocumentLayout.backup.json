@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\giovanny.restrepo\\Documents\\Reto_Tecnico_Yape_Bolivia\\Anti_Fraud\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-4789-ABCD-EF0123456789}|AntiFraud.API\\AntiFraud.API.csproj|c:\\users\\giovanny.restrepo\\documents\\reto_tecnico_yape_bolivia\\anti_fraud\\antifraud.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-4789-ABCD-EF0123456789}|AntiFraud.API\\AntiFraud.API.csproj|solutionrelative:antifraud.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F84FAFB-9F5C-4528-856D-936249C34F0A}|AntiFraud.Infrastructure\\AntiFraud.Infrastructure.csproj|c:\\users\\giovanny.restrepo\\documents\\reto_tecnico_yape_bolivia\\anti_fraud\\antifraud.infrastructure\\kafka\\kafkaproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F84FAFB-9F5C-4528-856D-936249C34F0A}|AntiFraud.Infrastructure\\AntiFraud.Infrastructure.csproj|solutionrelative:antifraud.infrastructure\\kafka\\kafkaproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F84FAFB-9F5C-4528-856D-936249C34F0A}|AntiFraud.Infrastructure\\AntiFraud.Infrastructure.csproj|c:\\users\\giovanny.restrepo\\documents\\reto_tecnico_yape_bolivia\\anti_fraud\\antifraud.infrastructure\\kafka\\kafkaconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F84FAFB-9F5C-4528-856D-936249C34F0A}|AntiFraud.Infrastructure\\AntiFraud.Infrastructure.csproj|solutionrelative:antifraud.infrastructure\\kafka\\kafkaconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F84FAFB-9F5C-4528-856D-936249C34F0A}|AntiFraud.Infrastructure\\AntiFraud.Infrastructure.csproj|c:\\users\\giovanny.restrepo\\documents\\reto_tecnico_yape_bolivia\\anti_fraud\\antifraud.infrastructure\\kafka\\ikafkaproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F84FAFB-9F5C-4528-856D-936249C34F0A}|AntiFraud.Infrastructure\\AntiFraud.Infrastructure.csproj|solutionrelative:antifraud.infrastructure\\kafka\\ikafkaproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F84FAFB-9F5C-4528-856D-936249C34F0A}|AntiFraud.Infrastructure\\AntiFraud.Infrastructure.csproj|c:\\users\\giovanny.restrepo\\documents\\reto_tecnico_yape_bolivia\\anti_fraud\\antifraud.infrastructure\\kafka\\ikafkaconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F84FAFB-9F5C-4528-856D-936249C34F0A}|AntiFraud.Infrastructure\\AntiFraud.Infrastructure.csproj|solutionrelative:antifraud.infrastructure\\kafka\\ikafkaconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D4E5F6-A7B8-4901-CDEF-AB1234567890}|AntiFraud.Domain\\AntiFraud.Domain.csproj|c:\\users\\giovanny.restrepo\\documents\\reto_tecnico_yape_bolivia\\anti_fraud\\antifraud.domain\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3D4E5F6-A7B8-4901-CDEF-AB1234567890}|AntiFraud.Domain\\AntiFraud.Domain.csproj|solutionrelative:antifraud.domain\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C3D4E5-F6A7-4890-BCDE-FA1234567890}|AntiFraud.Application\\AntiFraud.Application.csproj|c:\\users\\giovanny.restrepo\\documents\\reto_tecnico_yape_bolivia\\anti_fraud\\antifraud.application\\services\\transactionvalidationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2C3D4E5-F6A7-4890-BCDE-FA1234567890}|AntiFraud.Application\\AntiFraud.Application.csproj|solutionrelative:antifraud.application\\services\\transactionvalidationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C3D4E5-F6A7-4890-BCDE-FA1234567890}|AntiFraud.Application\\AntiFraud.Application.csproj|c:\\users\\giovanny.restrepo\\documents\\reto_tecnico_yape_bolivia\\anti_fraud\\antifraud.application\\services\\itransactionvalidationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2C3D4E5-F6A7-4890-BCDE-FA1234567890}|AntiFraud.Application\\AntiFraud.Application.csproj|solutionrelative:antifraud.application\\services\\itransactionvalidationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IKafkaProducer.cs",
+              "DocumentMoniker": "C:\\Users\\giovanny.restrepo\\Documents\\Reto_Tecnico_Yape_Bolivia\\Anti_Fraud\\AntiFraud.Infrastructure\\Kafka\\IKafkaProducer.cs",
+              "RelativeDocumentMoniker": "AntiFraud.Infrastructure\\Kafka\\IKafkaProducer.cs",
+              "ToolTip": "C:\\Users\\giovanny.restrepo\\Documents\\Reto_Tecnico_Yape_Bolivia\\Anti_Fraud\\AntiFraud.Infrastructure\\Kafka\\IKafkaProducer.cs",
+              "RelativeToolTip": "AntiFraud.Infrastructure\\Kafka\\IKafkaProducer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T15:46:58.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KafkaConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\giovanny.restrepo\\Documents\\Reto_Tecnico_Yape_Bolivia\\Anti_Fraud\\AntiFraud.Infrastructure\\Kafka\\KafkaConsumer.cs",
+              "RelativeDocumentMoniker": "AntiFraud.Infrastructure\\Kafka\\KafkaConsumer.cs",
+              "ToolTip": "C:\\Users\\giovanny.restrepo\\Documents\\Reto_Tecnico_Yape_Bolivia\\Anti_Fraud\\AntiFraud.Infrastructure\\Kafka\\KafkaConsumer.cs",
+              "RelativeToolTip": "AntiFraud.Infrastructure\\Kafka\\KafkaConsumer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T15:05:34.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IKafkaConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\giovanny.restrepo\\Documents\\Reto_Tecnico_Yape_Bolivia\\Anti_Fraud\\AntiFraud.Infrastructure\\Kafka\\IKafkaConsumer.cs",
+              "RelativeDocumentMoniker": "AntiFraud.Infrastructure\\Kafka\\IKafkaConsumer.cs",
+              "ToolTip": "C:\\Users\\giovanny.restrepo\\Documents\\Reto_Tecnico_Yape_Bolivia\\Anti_Fraud\\AntiFraud.Infrastructure\\Kafka\\IKafkaConsumer.cs",
+              "RelativeToolTip": "AntiFraud.Infrastructure\\Kafka\\IKafkaConsumer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T15:04:55.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TransactionValidationService.cs",
+              "DocumentMoniker": "C:\\Users\\giovanny.restrepo\\Documents\\Reto_Tecnico_Yape_Bolivia\\Anti_Fraud\\AntiFraud.Application\\Services\\TransactionValidationService.cs",
+              "RelativeDocumentMoniker": "AntiFraud.Application\\Services\\TransactionValidationService.cs",
+              "ToolTip": "C:\\Users\\giovanny.restrepo\\Documents\\Reto_Tecnico_Yape_Bolivia\\Anti_Fraud\\AntiFraud.Application\\Services\\TransactionValidationService.cs",
+              "RelativeToolTip": "AntiFraud.Application\\Services\\TransactionValidationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T00:47:44.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KafkaProducer.cs",
+              "DocumentMoniker": "C:\\Users\\giovanny.restrepo\\Documents\\Reto_Tecnico_Yape_Bolivia\\Anti_Fraud\\AntiFraud.Infrastructure\\Kafka\\KafkaProducer.cs",
+              "RelativeDocumentMoniker": "AntiFraud.Infrastructure\\Kafka\\KafkaProducer.cs",
+              "ToolTip": "C:\\Users\\giovanny.restrepo\\Documents\\Reto_Tecnico_Yape_Bolivia\\Anti_Fraud\\AntiFraud.Infrastructure\\Kafka\\KafkaProducer.cs",
+              "RelativeToolTip": "AntiFraud.Infrastructure\\Kafka\\KafkaProducer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T15:47:21.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ITransactionValidationService.cs",
+              "DocumentMoniker": "C:\\Users\\giovanny.restrepo\\Documents\\Reto_Tecnico_Yape_Bolivia\\Anti_Fraud\\AntiFraud.Application\\Services\\ITransactionValidationService.cs",
+              "RelativeDocumentMoniker": "AntiFraud.Application\\Services\\ITransactionValidationService.cs",
+              "ToolTip": "C:\\Users\\giovanny.restrepo\\Documents\\Reto_Tecnico_Yape_Bolivia\\Anti_Fraud\\AntiFraud.Application\\Services\\ITransactionValidationService.cs",
+              "RelativeToolTip": "AntiFraud.Application\\Services\\ITransactionValidationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T15:02:16.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\giovanny.restrepo\\Documents\\Reto_Tecnico_Yape_Bolivia\\Anti_Fraud\\AntiFraud.Domain\\Transaction.cs",
+              "RelativeDocumentMoniker": "AntiFraud.Domain\\Transaction.cs",
+              "ToolTip": "C:\\Users\\giovanny.restrepo\\Documents\\Reto_Tecnico_Yape_Bolivia\\Anti_Fraud\\AntiFraud.Domain\\Transaction.cs",
+              "RelativeToolTip": "AntiFraud.Domain\\Transaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T15:01:34.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\giovanny.restrepo\\Documents\\Reto_Tecnico_Yape_Bolivia\\Anti_Fraud\\AntiFraud.API\\Program.cs",
+              "RelativeDocumentMoniker": "AntiFraud.API\\Program.cs",
+              "ToolTip": "C:\\Users\\giovanny.restrepo\\Documents\\Reto_Tecnico_Yape_Bolivia\\Anti_Fraud\\AntiFraud.API\\Program.cs",
+              "RelativeToolTip": "AntiFraud.API\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T00:45:28.174Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

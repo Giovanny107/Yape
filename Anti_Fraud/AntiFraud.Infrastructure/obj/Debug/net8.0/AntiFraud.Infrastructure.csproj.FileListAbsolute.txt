@@ -1,0 +1,17 @@
+C:\Users\giovanny.restrepo\Documents\Reto_Tecnico_Yape_Bolivia\Anti_Fraud\AntiFraud.Infrastructure\bin\Debug\net8.0\AntiFraud.Infrastructure.deps.json
+C:\Users\giovanny.restrepo\Documents\Reto_Tecnico_Yape_Bolivia\Anti_Fraud\AntiFraud.Infrastructure\bin\Debug\net8.0\AntiFraud.Infrastructure.dll
+C:\Users\giovanny.restrepo\Documents\Reto_Tecnico_Yape_Bolivia\Anti_Fraud\AntiFraud.Infrastructure\bin\Debug\net8.0\AntiFraud.Infrastructure.pdb
+C:\Users\giovanny.restrepo\Documents\Reto_Tecnico_Yape_Bolivia\Anti_Fraud\AntiFraud.Infrastructure\bin\Debug\net8.0\AntiFraud.Application.dll
+C:\Users\giovanny.restrepo\Documents\Reto_Tecnico_Yape_Bolivia\Anti_Fraud\AntiFraud.Infrastructure\bin\Debug\net8.0\AntiFraud.Domain.dll
+C:\Users\giovanny.restrepo\Documents\Reto_Tecnico_Yape_Bolivia\Anti_Fraud\AntiFraud.Infrastructure\bin\Debug\net8.0\AntiFraud.Application.pdb
+C:\Users\giovanny.restrepo\Documents\Reto_Tecnico_Yape_Bolivia\Anti_Fraud\AntiFraud.Infrastructure\bin\Debug\net8.0\AntiFraud.Domain.pdb
+C:\Users\giovanny.restrepo\Documents\Reto_Tecnico_Yape_Bolivia\Anti_Fraud\AntiFraud.Infrastructure\obj\Debug\net8.0\AntiFraud.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\giovanny.restrepo\Documents\Reto_Tecnico_Yape_Bolivia\Anti_Fraud\AntiFraud.Infrastructure\obj\Debug\net8.0\AntiFraud.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giovanny.restrepo\Documents\Reto_Tecnico_Yape_Bolivia\Anti_Fraud\AntiFraud.Infrastructure\obj\Debug\net8.0\AntiFraud.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\giovanny.restrepo\Documents\Reto_Tecnico_Yape_Bolivia\Anti_Fraud\AntiFraud.Infrastructure\obj\Debug\net8.0\AntiFraud.Infrastructure.AssemblyInfo.cs
+C:\Users\giovanny.restrepo\Documents\Reto_Tecnico_Yape_Bolivia\Anti_Fraud\AntiFraud.Infrastructure\obj\Debug\net8.0\AntiFraud.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\giovanny.restrepo\Documents\Reto_Tecnico_Yape_Bolivia\Anti_Fraud\AntiFraud.Infrastructure\obj\Debug\net8.0\AntiFrau.319625DB.Up2Date
+C:\Users\giovanny.restrepo\Documents\Reto_Tecnico_Yape_Bolivia\Anti_Fraud\AntiFraud.Infrastructure\obj\Debug\net8.0\AntiFraud.Infrastructure.dll
+C:\Users\giovanny.restrepo\Documents\Reto_Tecnico_Yape_Bolivia\Anti_Fraud\AntiFraud.Infrastructure\obj\Debug\net8.0\refint\AntiFraud.Infrastructure.dll
+C:\Users\giovanny.restrepo\Documents\Reto_Tecnico_Yape_Bolivia\Anti_Fraud\AntiFraud.Infrastructure\obj\Debug\net8.0\AntiFraud.Infrastructure.pdb
+C:\Users\giovanny.restrepo\Documents\Reto_Tecnico_Yape_Bolivia\Anti_Fraud\AntiFraud.Infrastructure\obj\Debug\net8.0\ref\AntiFraud.Infrastructure.dll
