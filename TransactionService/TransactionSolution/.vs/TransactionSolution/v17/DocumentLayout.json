@@ -1,0 +1,339 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\giovanny.restrepo\\Documents\\Reto_Tecnico_Yape_Bolivia\\TransactionService\\TransactionSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{375BB151-2DA8-60BF-ACFB-DDEBD1F10705}|..\\Transaction.Infrastructure\\Transaction.Infrastructure.csproj|c:\\users\\giovanny.restrepo\\documents\\reto_tecnico_yape_bolivia\\transactionservice\\transaction.infrastructure\\kafka\\kafkaconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{387E9311-65B5-4655-97A0-366B196D12BA}|TransactionSolution.csproj|c:\\users\\giovanny.restrepo\\documents\\reto_tecnico_yape_bolivia\\transactionservice\\transactionsolution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{387E9311-65B5-4655-97A0-366B196D12BA}|TransactionSolution.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{387E9311-65B5-4655-97A0-366B196D12BA}|TransactionSolution.csproj|c:\\users\\giovanny.restrepo\\documents\\reto_tecnico_yape_bolivia\\transactionservice\\transactionsolution\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{387E9311-65B5-4655-97A0-366B196D12BA}|TransactionSolution.csproj|solutionrelative:controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{387E9311-65B5-4655-97A0-366B196D12BA}|TransactionSolution.csproj|c:\\users\\giovanny.restrepo\\documents\\reto_tecnico_yape_bolivia\\transactionservice\\transactionsolution\\transactionsolution.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{387E9311-65B5-4655-97A0-366B196D12BA}|TransactionSolution.csproj|solutionrelative:transactionsolution.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\giovanny.restrepo\\Documents\\Reto_Tecnico_Yape_Bolivia\\Transaction\\Transaction.Application\\Services\\ValidationResultService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{387E9311-65B5-4655-97A0-366B196D12BA}|TransactionSolution.csproj|c:\\users\\giovanny.restrepo\\documents\\reto_tecnico_yape_bolivia\\transactionservice\\transactionsolution\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{387E9311-65B5-4655-97A0-366B196D12BA}|TransactionSolution.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\giovanny.restrepo\\Documents\\Reto_Tecnico_Yape_Bolivia\\Transaction\\Transaction.Infrastructure\\Data\\ApplicationDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\giovanny.restrepo\\Documents\\Reto_Tecnico_Yape_Bolivia\\Transaction\\Transaction.Infrastructure\\Kafka\\IKafkaConsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\giovanny.restrepo\\Documents\\Reto_Tecnico_Yape_Bolivia\\Transaction\\Transaction.Infrastructure\\Repositories\\TransactionRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\giovanny.restrepo\\Documents\\Reto_Tecnico_Yape_Bolivia\\Transaction\\Transaction.Infrastructure\\Services\\KafkaProducerService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\giovanny.restrepo\\Documents\\Reto_Tecnico_Yape_Bolivia\\Transaction\\Transaction.Application\\Services\\TransactionService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\giovanny.restrepo\\Documents\\Reto_Tecnico_Yape_Bolivia\\Transaction\\Transaction.Domain\\Interfaces\\ITransactionRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\giovanny.restrepo\\Documents\\Reto_Tecnico_Yape_Bolivia\\Transaction\\Transaction.Domain\\Enums\\TransactionStatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\giovanny.restrepo\\Documents\\Reto_Tecnico_Yape_Bolivia\\Transaction\\Transaction.Domain\\Entities\\Transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\giovanny.restrepo\\Documents\\Reto_Tecnico_Yape_Bolivia\\Transaction\\Transaction.Domain\\Entities\\BaseEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\giovanny.restrepo\\Documents\\Reto_Tecnico_Yape_Bolivia\\Transaction\\Transaction.Application\\Interfaces\\IValidationResultService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\giovanny.restrepo\\Documents\\Reto_Tecnico_Yape_Bolivia\\Transaction\\Transaction.Application\\Interfaces\\ITransactionService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\giovanny.restrepo\\Documents\\Reto_Tecnico_Yape_Bolivia\\Transaction\\Transaction.Application\\Interfaces\\IKafkaProducerService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\giovanny.restrepo\\Documents\\Reto_Tecnico_Yape_Bolivia\\Transaction\\Transaction.Application\\DTOs\\TransactionResponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\giovanny.restrepo\\Documents\\Reto_Tecnico_Yape_Bolivia\\Transaction\\Transaction.Domain\\Entities\\ValidationResult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\giovanny.restrepo\\Documents\\Reto_Tecnico_Yape_Bolivia\\Transaction\\Transaction.Application\\DTOs\\CreateTransactionRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KafkaConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\giovanny.restrepo\\Documents\\Reto_Tecnico_Yape_Bolivia\\TransactionService\\Transaction.Infrastructure\\Kafka\\KafkaConsumer.cs",
+              "RelativeDocumentMoniker": "..\\Transaction.Infrastructure\\Kafka\\KafkaConsumer.cs",
+              "ToolTip": "C:\\Users\\giovanny.restrepo\\Documents\\Reto_Tecnico_Yape_Bolivia\\TransactionService\\Transaction.Infrastructure\\Kafka\\KafkaConsumer.cs",
+              "RelativeToolTip": "..\\Transaction.Infrastructure\\Kafka\\KafkaConsumer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T14:23:20.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TransactionSolution.csproj",
+              "DocumentMoniker": "C:\\Users\\giovanny.restrepo\\Documents\\Reto_Tecnico_Yape_Bolivia\\TransactionService\\TransactionSolution\\TransactionSolution.csproj",
+              "RelativeDocumentMoniker": "TransactionSolution.csproj",
+              "ToolTip": "C:\\Users\\giovanny.restrepo\\Documents\\Reto_Tecnico_Yape_Bolivia\\TransactionService\\TransactionSolution\\TransactionSolution.csproj",
+              "RelativeToolTip": "TransactionSolution.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-09T14:13:35.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\giovanny.restrepo\\Documents\\Reto_Tecnico_Yape_Bolivia\\Transaction\\Transaction.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "..\\..\\Transaction\\Transaction.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\giovanny.restrepo\\Documents\\Reto_Tecnico_Yape_Bolivia\\Transaction\\Transaction.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "..\\..\\Transaction\\Transaction.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T00:53:39.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IKafkaConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\giovanny.restrepo\\Documents\\Reto_Tecnico_Yape_Bolivia\\Transaction\\Transaction.Infrastructure\\Kafka\\IKafkaConsumer.cs",
+              "RelativeDocumentMoniker": "..\\..\\Transaction\\Transaction.Infrastructure\\Kafka\\IKafkaConsumer.cs",
+              "ToolTip": "C:\\Users\\giovanny.restrepo\\Documents\\Reto_Tecnico_Yape_Bolivia\\Transaction\\Transaction.Infrastructure\\Kafka\\IKafkaConsumer.cs",
+              "RelativeToolTip": "..\\..\\Transaction\\Transaction.Infrastructure\\Kafka\\IKafkaConsumer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T21:01:55.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TransactionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\giovanny.restrepo\\Documents\\Reto_Tecnico_Yape_Bolivia\\Transaction\\Transaction.Infrastructure\\Repositories\\TransactionRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\Transaction\\Transaction.Infrastructure\\Repositories\\TransactionRepository.cs",
+              "ToolTip": "C:\\Users\\giovanny.restrepo\\Documents\\Reto_Tecnico_Yape_Bolivia\\Transaction\\Transaction.Infrastructure\\Repositories\\TransactionRepository.cs",
+              "RelativeToolTip": "..\\..\\Transaction\\Transaction.Infrastructure\\Repositories\\TransactionRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T00:42:02.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "KafkaProducerService.cs",
+              "DocumentMoniker": "C:\\Users\\giovanny.restrepo\\Documents\\Reto_Tecnico_Yape_Bolivia\\Transaction\\Transaction.Infrastructure\\Services\\KafkaProducerService.cs",
+              "RelativeDocumentMoniker": "..\\..\\Transaction\\Transaction.Infrastructure\\Services\\KafkaProducerService.cs",
+              "ToolTip": "C:\\Users\\giovanny.restrepo\\Documents\\Reto_Tecnico_Yape_Bolivia\\Transaction\\Transaction.Infrastructure\\Services\\KafkaProducerService.cs",
+              "RelativeToolTip": "..\\..\\Transaction\\Transaction.Infrastructure\\Services\\KafkaProducerService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T12:49:04.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TransactionController.cs",
+              "DocumentMoniker": "C:\\Users\\giovanny.restrepo\\Documents\\Reto_Tecnico_Yape_Bolivia\\TransactionService\\TransactionSolution\\Controllers\\TransactionController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TransactionController.cs",
+              "ToolTip": "C:\\Users\\giovanny.restrepo\\Documents\\Reto_Tecnico_Yape_Bolivia\\TransactionService\\TransactionSolution\\Controllers\\TransactionController.cs",
+              "RelativeToolTip": "Controllers\\TransactionController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T12:52:09.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\giovanny.restrepo\\Documents\\Reto_Tecnico_Yape_Bolivia\\TransactionService\\TransactionSolution\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\giovanny.restrepo\\Documents\\Reto_Tecnico_Yape_Bolivia\\TransactionService\\TransactionSolution\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T12:54:13.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TransactionService.cs",
+              "DocumentMoniker": "C:\\Users\\giovanny.restrepo\\Documents\\Reto_Tecnico_Yape_Bolivia\\Transaction\\Transaction.Application\\Services\\TransactionService.cs",
+              "RelativeDocumentMoniker": "..\\..\\Transaction\\Transaction.Application\\Services\\TransactionService.cs",
+              "ToolTip": "C:\\Users\\giovanny.restrepo\\Documents\\Reto_Tecnico_Yape_Bolivia\\Transaction\\Transaction.Application\\Services\\TransactionService.cs",
+              "RelativeToolTip": "..\\..\\Transaction\\Transaction.Application\\Services\\TransactionService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T12:53:17.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ValidationResultService.cs",
+              "DocumentMoniker": "C:\\Users\\giovanny.restrepo\\Documents\\Reto_Tecnico_Yape_Bolivia\\Transaction\\Transaction.Application\\Services\\ValidationResultService.cs",
+              "RelativeDocumentMoniker": "..\\..\\Transaction\\Transaction.Application\\Services\\ValidationResultService.cs",
+              "ToolTip": "C:\\Users\\giovanny.restrepo\\Documents\\Reto_Tecnico_Yape_Bolivia\\Transaction\\Transaction.Application\\Services\\ValidationResultService.cs",
+              "RelativeToolTip": "..\\..\\Transaction\\Transaction.Application\\Services\\ValidationResultService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T20:59:43.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ITransactionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\giovanny.restrepo\\Documents\\Reto_Tecnico_Yape_Bolivia\\Transaction\\Transaction.Domain\\Interfaces\\ITransactionRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\Transaction\\Transaction.Domain\\Interfaces\\ITransactionRepository.cs",
+              "ToolTip": "C:\\Users\\giovanny.restrepo\\Documents\\Reto_Tecnico_Yape_Bolivia\\Transaction\\Transaction.Domain\\Interfaces\\ITransactionRepository.cs",
+              "RelativeToolTip": "..\\..\\Transaction\\Transaction.Domain\\Interfaces\\ITransactionRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T00:40:01.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TransactionStatus.cs",
+              "DocumentMoniker": "C:\\Users\\giovanny.restrepo\\Documents\\Reto_Tecnico_Yape_Bolivia\\Transaction\\Transaction.Domain\\Enums\\TransactionStatus.cs",
+              "RelativeDocumentMoniker": "..\\..\\Transaction\\Transaction.Domain\\Enums\\TransactionStatus.cs",
+              "ToolTip": "C:\\Users\\giovanny.restrepo\\Documents\\Reto_Tecnico_Yape_Bolivia\\Transaction\\Transaction.Domain\\Enums\\TransactionStatus.cs",
+              "RelativeToolTip": "..\\..\\Transaction\\Transaction.Domain\\Enums\\TransactionStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T13:33:55.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\giovanny.restrepo\\Documents\\Reto_Tecnico_Yape_Bolivia\\TransactionService\\TransactionSolution\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\giovanny.restrepo\\Documents\\Reto_Tecnico_Yape_Bolivia\\TransactionService\\TransactionSolution\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-08T01:18:31.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\giovanny.restrepo\\Documents\\Reto_Tecnico_Yape_Bolivia\\Transaction\\Transaction.Domain\\Entities\\Transaction.cs",
+              "RelativeDocumentMoniker": "..\\..\\Transaction\\Transaction.Domain\\Entities\\Transaction.cs",
+              "ToolTip": "C:\\Users\\giovanny.restrepo\\Documents\\Reto_Tecnico_Yape_Bolivia\\Transaction\\Transaction.Domain\\Entities\\Transaction.cs",
+              "RelativeToolTip": "..\\..\\Transaction\\Transaction.Domain\\Entities\\Transaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T14:30:20.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\giovanny.restrepo\\Documents\\Reto_Tecnico_Yape_Bolivia\\Transaction\\Transaction.Domain\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "..\\..\\Transaction\\Transaction.Domain\\Entities\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\giovanny.restrepo\\Documents\\Reto_Tecnico_Yape_Bolivia\\Transaction\\Transaction.Domain\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "..\\..\\Transaction\\Transaction.Domain\\Entities\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T13:33:45.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IValidationResultService.cs",
+              "DocumentMoniker": "C:\\Users\\giovanny.restrepo\\Documents\\Reto_Tecnico_Yape_Bolivia\\Transaction\\Transaction.Application\\Interfaces\\IValidationResultService.cs",
+              "RelativeDocumentMoniker": "..\\..\\Transaction\\Transaction.Application\\Interfaces\\IValidationResultService.cs",
+              "ToolTip": "C:\\Users\\giovanny.restrepo\\Documents\\Reto_Tecnico_Yape_Bolivia\\Transaction\\Transaction.Application\\Interfaces\\IValidationResultService.cs",
+              "RelativeToolTip": "..\\..\\Transaction\\Transaction.Application\\Interfaces\\IValidationResultService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T20:59:09.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ITransactionService.cs",
+              "DocumentMoniker": "C:\\Users\\giovanny.restrepo\\Documents\\Reto_Tecnico_Yape_Bolivia\\Transaction\\Transaction.Application\\Interfaces\\ITransactionService.cs",
+              "RelativeDocumentMoniker": "..\\..\\Transaction\\Transaction.Application\\Interfaces\\ITransactionService.cs",
+              "ToolTip": "C:\\Users\\giovanny.restrepo\\Documents\\Reto_Tecnico_Yape_Bolivia\\Transaction\\Transaction.Application\\Interfaces\\ITransactionService.cs",
+              "RelativeToolTip": "..\\..\\Transaction\\Transaction.Application\\Interfaces\\ITransactionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T16:15:52.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IKafkaProducerService.cs",
+              "DocumentMoniker": "C:\\Users\\giovanny.restrepo\\Documents\\Reto_Tecnico_Yape_Bolivia\\Transaction\\Transaction.Application\\Interfaces\\IKafkaProducerService.cs",
+              "RelativeDocumentMoniker": "..\\..\\Transaction\\Transaction.Application\\Interfaces\\IKafkaProducerService.cs",
+              "ToolTip": "C:\\Users\\giovanny.restrepo\\Documents\\Reto_Tecnico_Yape_Bolivia\\Transaction\\Transaction.Application\\Interfaces\\IKafkaProducerService.cs",
+              "RelativeToolTip": "..\\..\\Transaction\\Transaction.Application\\Interfaces\\IKafkaProducerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T12:44:24.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TransactionResponse.cs",
+              "DocumentMoniker": "C:\\Users\\giovanny.restrepo\\Documents\\Reto_Tecnico_Yape_Bolivia\\Transaction\\Transaction.Application\\DTOs\\TransactionResponse.cs",
+              "RelativeDocumentMoniker": "..\\..\\Transaction\\Transaction.Application\\DTOs\\TransactionResponse.cs",
+              "ToolTip": "C:\\Users\\giovanny.restrepo\\Documents\\Reto_Tecnico_Yape_Bolivia\\Transaction\\Transaction.Application\\DTOs\\TransactionResponse.cs",
+              "RelativeToolTip": "..\\..\\Transaction\\Transaction.Application\\DTOs\\TransactionResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T13:28:29.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ValidationResult.cs",
+              "DocumentMoniker": "C:\\Users\\giovanny.restrepo\\Documents\\Reto_Tecnico_Yape_Bolivia\\Transaction\\Transaction.Domain\\Entities\\ValidationResult.cs",
+              "RelativeDocumentMoniker": "..\\..\\Transaction\\Transaction.Domain\\Entities\\ValidationResult.cs",
+              "ToolTip": "C:\\Users\\giovanny.restrepo\\Documents\\Reto_Tecnico_Yape_Bolivia\\Transaction\\Transaction.Domain\\Entities\\ValidationResult.cs",
+              "RelativeToolTip": "..\\..\\Transaction\\Transaction.Domain\\Entities\\ValidationResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T20:56:08.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CreateTransactionRequest.cs",
+              "DocumentMoniker": "C:\\Users\\giovanny.restrepo\\Documents\\Reto_Tecnico_Yape_Bolivia\\Transaction\\Transaction.Application\\DTOs\\CreateTransactionRequest.cs",
+              "RelativeDocumentMoniker": "..\\..\\Transaction\\Transaction.Application\\DTOs\\CreateTransactionRequest.cs",
+              "ToolTip": "C:\\Users\\giovanny.restrepo\\Documents\\Reto_Tecnico_Yape_Bolivia\\Transaction\\Transaction.Application\\DTOs\\CreateTransactionRequest.cs",
+              "RelativeToolTip": "..\\..\\Transaction\\Transaction.Application\\DTOs\\CreateTransactionRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T13:28:17.074Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

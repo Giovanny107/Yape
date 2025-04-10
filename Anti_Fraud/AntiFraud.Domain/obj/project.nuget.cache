@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NZ/LvCoSVUI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\giovanny.restrepo\\Documents\\Reto_Tecnico_Yape_Bolivia\\Anti_Fraud\\AntiFraud.Domain\\AntiFraud.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\giovanny.restrepo\\.nuget\\packages\\fluentvalidation\\11.9.0\\fluentvalidation.11.9.0.nupkg.sha512"
+  ],
+  "logs": []
+}

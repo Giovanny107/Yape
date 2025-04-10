@@ -1,0 +1,11 @@
+C:\Users\giovanny.restrepo\Documents\Reto_Tecnico_Yape_Bolivia\Transaction\Transaction.Domain\bin\Debug\net7.0\Transaction.Domain.deps.json
+C:\Users\giovanny.restrepo\Documents\Reto_Tecnico_Yape_Bolivia\Transaction\Transaction.Domain\bin\Debug\net7.0\Transaction.Domain.dll
+C:\Users\giovanny.restrepo\Documents\Reto_Tecnico_Yape_Bolivia\Transaction\Transaction.Domain\bin\Debug\net7.0\Transaction.Domain.pdb
+C:\Users\giovanny.restrepo\Documents\Reto_Tecnico_Yape_Bolivia\Transaction\Transaction.Domain\obj\Debug\net7.0\Transaction.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giovanny.restrepo\Documents\Reto_Tecnico_Yape_Bolivia\Transaction\Transaction.Domain\obj\Debug\net7.0\Transaction.Domain.AssemblyInfoInputs.cache
+C:\Users\giovanny.restrepo\Documents\Reto_Tecnico_Yape_Bolivia\Transaction\Transaction.Domain\obj\Debug\net7.0\Transaction.Domain.AssemblyInfo.cs
+C:\Users\giovanny.restrepo\Documents\Reto_Tecnico_Yape_Bolivia\Transaction\Transaction.Domain\obj\Debug\net7.0\Transaction.Domain.csproj.CoreCompileInputs.cache
+C:\Users\giovanny.restrepo\Documents\Reto_Tecnico_Yape_Bolivia\Transaction\Transaction.Domain\obj\Debug\net7.0\Transaction.Domain.dll
+C:\Users\giovanny.restrepo\Documents\Reto_Tecnico_Yape_Bolivia\Transaction\Transaction.Domain\obj\Debug\net7.0\refint\Transaction.Domain.dll
+C:\Users\giovanny.restrepo\Documents\Reto_Tecnico_Yape_Bolivia\Transaction\Transaction.Domain\obj\Debug\net7.0\Transaction.Domain.pdb
+C:\Users\giovanny.restrepo\Documents\Reto_Tecnico_Yape_Bolivia\Transaction\Transaction.Domain\obj\Debug\net7.0\ref\Transaction.Domain.dll

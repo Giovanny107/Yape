@@ -1,0 +1,15 @@
+C:\Users\giovanny.restrepo\Documents\Reto_Tecnico_Yape_Bolivia\Anti_Fraud\AntiFraud.Application\bin\Debug\net8.0\AntiFraud.Application.deps.json
+C:\Users\giovanny.restrepo\Documents\Reto_Tecnico_Yape_Bolivia\Anti_Fraud\AntiFraud.Application\bin\Debug\net8.0\AntiFraud.Application.dll
+C:\Users\giovanny.restrepo\Documents\Reto_Tecnico_Yape_Bolivia\Anti_Fraud\AntiFraud.Application\bin\Debug\net8.0\AntiFraud.Application.pdb
+C:\Users\giovanny.restrepo\Documents\Reto_Tecnico_Yape_Bolivia\Anti_Fraud\AntiFraud.Application\bin\Debug\net8.0\AntiFraud.Domain.dll
+C:\Users\giovanny.restrepo\Documents\Reto_Tecnico_Yape_Bolivia\Anti_Fraud\AntiFraud.Application\bin\Debug\net8.0\AntiFraud.Domain.pdb
+C:\Users\giovanny.restrepo\Documents\Reto_Tecnico_Yape_Bolivia\Anti_Fraud\AntiFraud.Application\obj\Debug\net8.0\AntiFraud.Application.csproj.AssemblyReference.cache
+C:\Users\giovanny.restrepo\Documents\Reto_Tecnico_Yape_Bolivia\Anti_Fraud\AntiFraud.Application\obj\Debug\net8.0\AntiFraud.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giovanny.restrepo\Documents\Reto_Tecnico_Yape_Bolivia\Anti_Fraud\AntiFraud.Application\obj\Debug\net8.0\AntiFraud.Application.AssemblyInfoInputs.cache
+C:\Users\giovanny.restrepo\Documents\Reto_Tecnico_Yape_Bolivia\Anti_Fraud\AntiFraud.Application\obj\Debug\net8.0\AntiFraud.Application.AssemblyInfo.cs
+C:\Users\giovanny.restrepo\Documents\Reto_Tecnico_Yape_Bolivia\Anti_Fraud\AntiFraud.Application\obj\Debug\net8.0\AntiFraud.Application.csproj.CoreCompileInputs.cache
+C:\Users\giovanny.restrepo\Documents\Reto_Tecnico_Yape_Bolivia\Anti_Fraud\AntiFraud.Application\obj\Debug\net8.0\AntiFrau.5CE43123.Up2Date
+C:\Users\giovanny.restrepo\Documents\Reto_Tecnico_Yape_Bolivia\Anti_Fraud\AntiFraud.Application\obj\Debug\net8.0\AntiFraud.Application.dll
+C:\Users\giovanny.restrepo\Documents\Reto_Tecnico_Yape_Bolivia\Anti_Fraud\AntiFraud.Application\obj\Debug\net8.0\refint\AntiFraud.Application.dll
+C:\Users\giovanny.restrepo\Documents\Reto_Tecnico_Yape_Bolivia\Anti_Fraud\AntiFraud.Application\obj\Debug\net8.0\AntiFraud.Application.pdb
+C:\Users\giovanny.restrepo\Documents\Reto_Tecnico_Yape_Bolivia\Anti_Fraud\AntiFraud.Application\obj\Debug\net8.0\ref\AntiFraud.Application.dll

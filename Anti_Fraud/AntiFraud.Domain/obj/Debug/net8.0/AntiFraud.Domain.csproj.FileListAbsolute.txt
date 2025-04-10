@@ -1,0 +1,12 @@
+C:\Users\giovanny.restrepo\Documents\Reto_Tecnico_Yape_Bolivia\Anti_Fraud\AntiFraud.Domain\bin\Debug\net8.0\AntiFraud.Domain.deps.json
+C:\Users\giovanny.restrepo\Documents\Reto_Tecnico_Yape_Bolivia\Anti_Fraud\AntiFraud.Domain\bin\Debug\net8.0\AntiFraud.Domain.dll
+C:\Users\giovanny.restrepo\Documents\Reto_Tecnico_Yape_Bolivia\Anti_Fraud\AntiFraud.Domain\bin\Debug\net8.0\AntiFraud.Domain.pdb
+C:\Users\giovanny.restrepo\Documents\Reto_Tecnico_Yape_Bolivia\Anti_Fraud\AntiFraud.Domain\obj\Debug\net8.0\AntiFraud.Domain.csproj.AssemblyReference.cache
+C:\Users\giovanny.restrepo\Documents\Reto_Tecnico_Yape_Bolivia\Anti_Fraud\AntiFraud.Domain\obj\Debug\net8.0\AntiFraud.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giovanny.restrepo\Documents\Reto_Tecnico_Yape_Bolivia\Anti_Fraud\AntiFraud.Domain\obj\Debug\net8.0\AntiFraud.Domain.AssemblyInfoInputs.cache
+C:\Users\giovanny.restrepo\Documents\Reto_Tecnico_Yape_Bolivia\Anti_Fraud\AntiFraud.Domain\obj\Debug\net8.0\AntiFraud.Domain.AssemblyInfo.cs
+C:\Users\giovanny.restrepo\Documents\Reto_Tecnico_Yape_Bolivia\Anti_Fraud\AntiFraud.Domain\obj\Debug\net8.0\AntiFraud.Domain.csproj.CoreCompileInputs.cache
+C:\Users\giovanny.restrepo\Documents\Reto_Tecnico_Yape_Bolivia\Anti_Fraud\AntiFraud.Domain\obj\Debug\net8.0\AntiFraud.Domain.dll
+C:\Users\giovanny.restrepo\Documents\Reto_Tecnico_Yape_Bolivia\Anti_Fraud\AntiFraud.Domain\obj\Debug\net8.0\refint\AntiFraud.Domain.dll
+C:\Users\giovanny.restrepo\Documents\Reto_Tecnico_Yape_Bolivia\Anti_Fraud\AntiFraud.Domain\obj\Debug\net8.0\AntiFraud.Domain.pdb
+C:\Users\giovanny.restrepo\Documents\Reto_Tecnico_Yape_Bolivia\Anti_Fraud\AntiFraud.Domain\obj\Debug\net8.0\ref\AntiFraud.Domain.dll

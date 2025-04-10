@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bpv7MfiAf3A=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\giovanny.restrepo\\Documents\\Reto_Tecnico_Yape_Bolivia\\TransactionService\\Transaction.Application\\Transaction.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\giovanny.restrepo\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.18\\microsoft.extensions.logging.abstractions.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
